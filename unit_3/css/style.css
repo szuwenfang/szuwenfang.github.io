@@ -1,0 +1,43 @@
+body{
+	text-align: center;
+	background: url("https://picjumbo.imgix.net/HNCK0896.jpg?q=40&w=1650&sharp=30");
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+}
+h1{
+	font-size: 100px;
+	font-weight: bold;
+}
+hr{
+	width: 200px;
+	height: 2px;
+	border: none;
+	color: #000;
+	background-color: #000;
+}
+p{
+	font-family: 'Open sans', sans-serif;
+	font-size: 15px;
+}
+div{
+	margin: auto;
+}
+#description{
+	width: 700px;
+}
+.icon{
+	width: 200px;
+	height: 200px;
+	background-color: rgba(225,225,225,.7);
+	font-family: 'Open sans', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	display: inline-block;
+}
+.icon img
+{
+  max-width:70%; 
+  max-height:70%;
+  margin:auto;
+  display:block;
+}
