@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+body{
+	text-align: center;
+	background: url("https://picjumbo.imgix.net/HNCK0896.jpg?q=40&w=1650&sharp=30");
+	background-size: cover;
+}
+h1{
+	font-size: 100px;
+	font-weight: bold;
+	font-family: 'Bree Serif', serif;
+	line-height: 1em;
+}
+h3{
+	font-family: 'Open sans', serif;	
+	font-weight: bold;
+}
+hr{
+	width: 17%;
+	align: center;
+	height: 2px;
+	border: none;
+	color: #000;
+	background-color: #000;
+}
+p{
+	font-family: 'Open sans', sans-serif;
+	font-size: 15px;
+}
+div{
+	margin: auto;
+}
+#description{
+	width: 70%;
+}
+.icon{
+	width: 200px;
+	height: 200px;
+	background-color: rgba(225,225,225,.7);
+	font-family: 'Open sans', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	display: inline-block;
+	margin: 8px;
+}
+.icon img
+{
+  max-width:70%; 
+  max-height:70%;
+  margin:auto;
+  display:block;
+}
